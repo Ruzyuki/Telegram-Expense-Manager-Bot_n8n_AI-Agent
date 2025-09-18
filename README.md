@@ -1,7 +1,7 @@
 # Telegram-Expense-Manager-Bot_n8n_AI-Agent
 An AI-powered Telegram bot built with n8n that uses Google Gemini for intelligent responses, logs interactions into Google Sheets, and provides real-time chat automation.
 
-💰** AI-Powered Telegram Expense Assistant (n8n + Google Gemini)**
+💰**AI-Powered Telegram Expense Assistant (n8n + Google Gemini)**
 
 This project is an AI-powered Telegram bot built with n8n
 , designed to help sales professionals on the field log and manage their expenses effortlessly.
